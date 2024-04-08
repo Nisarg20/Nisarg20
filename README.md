@@ -14,14 +14,12 @@
 ```csharp
     Human Information
     ------------------------------------------
-    Name: Damian
-    Lastname: Ziolo
-    Nickname: L0um15
+    Name: Nisarg
+    Lastname: Doshi
     Gender: Male
-    Age: 20
+    Age: 22
     Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["Polish"], ["English US"], ["English UK"]
-    Occupation: Poland
+    Languages: ["English US"], ["English UK"], ["Marathi"], ["Hindi"]
 ```
 
 <br>
