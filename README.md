@@ -2,24 +2,26 @@
     <img src="svg/inspiration.svg" width="480px"/>
 </p>
 
-<h2 align="center">Hi There</h2>
-<p align="center">My name is Damian and welcome to my github profile</p>
 
-```zsh
--> ~/Portfolio git:(main) > ./start.sh
-```
+<h2 align="center">Hi There</h2>
+<p align="center">My name is Nisarg Doshi and welcome to my github profile</p>
+  <p align="center">You can find my complete profile in my 
+    <span><a href="https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing" target="_blank">Resume</a></span>
+    or on my
+    <span><a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a></span>
+  </p>
 
 <img align="left" src="svg/givingback.svg" height="222px"/>
 
 ```csharp
-    Human Information
+    👨🏻‍💻 About Me
     ------------------------------------------
-    Name: Nisarg
-    Lastname: Doshi
-    Gender: Male
-    Age: 22
-    Hobbies: ["Movies"], ["Coding"], ["Gaming"], ["Music"]
-    Languages: ["English US"], ["English UK"], ["Marathi"], ["Hindi"]
+    💡 I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. 
+    💻 I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.
+    🎓 I a graduate student at NC State University, Raleigh (MS, Computer Science, Batch of 2023).
+    🌱 I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.
+    ✍️  In my free time, I Watch movies, listen to music or play badminton.
+    💬  You can email me at ndoshi2@ncsu.edu. I'll try to respond as soon as possible!
 ```
 
 <br>
@@ -62,18 +64,16 @@
 
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
-```csharp
-    System Information
-    ------------------------------------------
-    OS: Windows 10
-    Kernel: 21H1, Build ver. 19043.1110
-    WM: Windows Explorer
-    Shell: powershell
-    Terminal: alacritty 0.7.2
-    Resolution: 1920x1080
-    Theme: Dark
-    CPU: Intel Core i5 11400 @ 2.6GHz
-    GPU: Nvidia GeForce GTX 1050
-    Memory:  3072MB / 8192MB 3200MHz
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishkapoor2000&show_icons=true&locale=en&layout=compact" alt="ishkapoor2000"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishkapoor2000&show_icons=true&locale=en" alt="ishkapoor2000" width=300px /></p>
+**I'm an Early 🐤** 
 
+```text
+🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
+🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
 ```
+
+<!--
+**AbhishekSinghDhadwal/AbhishekSinghDhadwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
