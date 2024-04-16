@@ -64,15 +64,15 @@
 
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishkapoor2000&show_icons=true&locale=en&layout=compact" alt="ishkapoor2000"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishkapoor2000&show_icons=true&locale=en" alt="ishkapoor2000" width=300px /></p>
-**I'm an Early 🐤** 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nisarg20&show_icons=true&locale=en&layout=compact" alt="ishkapoor2000"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nisarg20&show_icons=true&locale=en" alt="ishkapoor2000" width=300px /></p>
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌆 Daytime                117 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
-🌃 Evening                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-🌙 Night                  55 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌞 Morning                73 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+🌆 Noon                   117 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌃 Evening                16 commits          █████████░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  55 commits          █████████░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 <!--
