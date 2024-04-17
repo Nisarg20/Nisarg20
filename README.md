@@ -16,7 +16,6 @@
 ```csharp
     👨🏻‍💻 About Me
     ------------------------------------------
-    💡 I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. 
     💻 I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.
     🎓 I a graduate student at NC State University, Raleigh (MS, Computer Science, Batch of 2023).
     🌱 I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.
